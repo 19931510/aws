@@ -36,9 +36,9 @@ Recomenda-se a continuidade da utilização das ferramentas implementadas e a bu
 ## Anexos  
 
 ### Manuais Técnicos  
-- [Guia de Configuração do Amazon S3](./Document1.pdf)  
-- [Documentação sobre AWS Lambda](./Document1.pdf)  
-- [Manual de Administração do Amazon RDS](./Document.pdf)  
+- [Guia de Configuração do Amazon S3](./Manual.pdf)  
+- [Documentação sobre AWS Lambda](./Manual.pdf)  
+- [Manual de Administração do Amazon RDS](./Manual.pdf)  
 
  
 
