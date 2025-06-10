@@ -36,12 +36,14 @@ Recomenda-se a continuidade da utilização das ferramentas implementadas e a bu
 ## Anexos  
 
 ### Manuais Técnicos  
-- Guia de configuração do **Amazon S3**  
-- Documentação sobre o funcionamento do **AWS Lambda**  
-- Manual de administração do **Amazon RDS**  
+- [Guia de Configuração do Amazon S3](./Document1.pdf)  
+- [Documentação sobre AWS Lambda](./Document1.pdf)  
+- [Manual de Administração do Amazon RDS](./Document.pdf)  
+
+ 
 
 ### Planilha de Custos  
-- Comparação de custos antes e depois da implementação dos serviços AWS  
+- [Comparação de custos antes e depois da implementação dos serviços AWS](./Pasta.pdf)  
 - Simulação de custos futuros com escalabilidade  
 
 ### Links para Documentação Oficial  
