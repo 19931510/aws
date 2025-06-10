@@ -44,7 +44,6 @@ Recomenda-se a continuidade da utilização das ferramentas implementadas e a bu
 
 ### Planilha de Custos  
 - [Comparação de custos antes e depois da implementação dos serviços AWS](./Pasta.pdf)  
-- Simulação de custos futuros com escalabilidade  
 
 ### Links para Documentação Oficial  
 - [Amazon S3](https://aws.amazon.com/pt/s3/)  
